@@ -1,0 +1,5 @@
+{
+  "name": "Napnox AI Strategist",
+  "description": "An AI-powered application that generates topical authority maps, analyzes search intent, performs multimodal competitor analysis, and creates content briefs to enhance SEO strategy. Using the power of Gemini, it moves beyond simple keyword metrics to provide deep, actionable insights.",
+  "requestFramePermissions": []
+}
